@@ -1,0 +1,36 @@
+
+
+
+
+// let modebtn=document.querySelector("#mode");
+// let curmode="light"
+
+// modebtn.addEventListener("click",()=>{
+//     console.log("hii my ");
+// })
+
+// let modeBtn = document.querySelector("#mode");
+// let curmode= "light" ;
+
+
+// modeBtn.addEventListener("click", () => {
+// if (curmode==="light"){
+//     curmode= "dark";
+//     document.querySelector("body").style.backgroundColor="black";
+// }else { 
+//     curmode="light";
+//     document.querySelector("body").style.backgroundColor="white";
+// }
+
+// });
+
+
+
+
+
+
+
+
+
+
+
